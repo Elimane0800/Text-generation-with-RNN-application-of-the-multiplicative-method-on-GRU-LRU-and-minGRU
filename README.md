@@ -72,9 +72,9 @@ Les contributions sont les bienvenues ! Pour contribuer, veuillez suivre ces ét
 ## Contact
 ## Contact
 
-For any questions or suggestions, please contact [your-email@example.com](mailto:elimane.seidou.com).
+For any questions or suggestions, please contact [elimane.seidou@gmail.com](mailto:elimane.seidou@gmail.com).
 
-Pour toute question ou suggestion, veuillez contacter [votre-email@example.com](mailto:elimane.seidou.com).
+Pour toute question ou suggestion, veuillez contacter [elimane.seidou@gmail.com](mailto:elimane.seidou@gmail.com).
 
 ---
 
