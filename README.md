@@ -67,19 +67,14 @@ Les contributions sont les bienvenues ! Pour contribuer, veuillez suivre ces ét
 4. Poussez vers la branche (`git push origin feature/nouvelle-fonctionnalite`).
 5. Créez une Pull Request.
 
-## License
-## Licence
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ## Contact
 ## Contact
 
-For any questions or suggestions, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, please contact [your-email@example.com](mailto:elimane.seidou.com).
 
-Pour toute question ou suggestion, veuillez contacter [votre-email@example.com](mailto:votre-email@example.com).
+Pour toute question ou suggestion, veuillez contacter [votre-email@example.com](mailto:elimane.seidou.com).
 
 ---
 
